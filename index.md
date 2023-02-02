@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: timo cv
 ---
 # Isaac Newton
 Physicist, Mathematician, Cambridge professor.
